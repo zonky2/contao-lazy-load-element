@@ -29,7 +29,7 @@
 		"php":">=5.4",
 		"contao/core-bundle":"~3.5 || ~4.2",
 		"contao-community-alliance/composer-plugin":"~2.4 || ~3.0",
-		"richardhj/contao-simple-ajax": "~1.0",
+		"richardhj/contao-simple-ajax": "~1.0 || ~2.0",
 		"codefog/contao-haste": "~4.0 || ~5.0"
 	},
 	"extra":{
